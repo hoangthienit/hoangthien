@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-BDAY;VALUE=DATE:YYYY-MM-DD /ngày sinh/
-NOTE: /ghi chú/
+BDAY;VALUE=DATE:2000-05-24 /ngày sinh/
+NOTE: Tôi là DEV
 URL;CHARSET=UTF-8:
 PHOTO;TYPE=JPEG;VALUE=URL:
-FN;CHARSET=UTF-8:/tên đầy đủ của bạn/
-N;CHARSET=UTF-8:;/tên của bạn/;;;
-ORG;CHARSET=UTF-8:/công ty/;
-ADR;TYPE=WORK,POSTAL,PARCEL:;;/địa chỉ/;
-TEL;TYPE=CELL:/số điện thoại/
-Email;TYPE=Email:/email/
+FN;CHARSET=UTF-8:Hoàng Thiện
+N;CHARSET=UTF-8:;Hoàng Thiện;;;
+ORG;CHARSET=UTF-8:;
+ADR;TYPE=WORK,POSTAL,PARCEL:;;Dak Lak;
+TEL;TYPE=CELL:0339195193
+Email;TYPE=Email:thiennphit@gmail.com
 END:VCARD
